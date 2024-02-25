@@ -1,0 +1,8 @@
+_minted-master/
+_minted-preamble/
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
+*.gz
